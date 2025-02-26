@@ -1,0 +1,44 @@
+/*clases*/
+.fondo{
+    background-color: beige;
+}
+
+.miTexto {
+    font-size: 1em;
+    color:darkslategray;
+}
+
+.logo{
+    width: 350px;
+}
+
+/* ID */
+#encabezado{
+    border: 2px solid blueviolet;
+    /*viewport width*/
+    width: 60vw;
+    margin: auto;
+}
+#titulo{
+    font-size: 3em; /* medidas relativas 3em*/
+}
+
+#secciones{
+    font-size: 1em;
+}
+
+#moda{
+    font-size: 1em;
+}
+
+#belleza{
+    font-size: 1em;
+}
+
+#starstyle{
+    font-size: 1em;
+}
+
+#living{
+    font-size: 1em;
+}
